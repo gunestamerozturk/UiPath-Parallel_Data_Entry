@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-Y4VM6YRL0iFNeN-FoQygA" Reference="0LbBORWvmkepZwquLszBFw/yV5_bd2O_kq9K5stdvnMlw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="7e70cdec-7dcf-4537-b4be-1ca6e5234443" CvElementArea="724, 292, 223, 40" CvType="InputBox" DesignTimeRectangle="718, 294, 219, 37" DesignTimeScaleFactor="1.100000023841858" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tabindex='7' tag='INPUT' type='input' /&gt;" FuzzySelectorArgument="&lt;webctrl tabindex='7' tag='INPUT' type='input' class='bubble-element Input a1740070491267x1668' aaname='' /&gt;" Guid="edc73b18-68ae-438e-baba-cb16b5bc5b75" ImageBase64="" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7e70cdec-7dcf-4537-b4be-1ca6e5234443" CvTextArea="628, 299, 68, 15" CvTextArgument="Address:" CvType="Text" DesignTimeRectangle="621, 294, 97, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Address: ' class='content' tag='DIV' type='' check:innerText='Address:' /&gt;" Guid="0f5907e4-eef4-4f08-994b-fda16ec05414" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2c4f46fadbff8ac78a9038b3865c4b09.png" xmlns="">0OLdFQBbMXEO86_oNyWt75A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

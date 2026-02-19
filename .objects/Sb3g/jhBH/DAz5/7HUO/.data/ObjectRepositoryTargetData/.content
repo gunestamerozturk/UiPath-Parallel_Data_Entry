@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F5-IA3W8YUuD2nYcsWByKA" Reference="0LbBORWvmkepZwquLszBFw/7HUOpWu5hUWrAHWpq1SpIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="b21ca1bf-0b5d-4568-9eb1-cdfe834f76d5" CvTextArea="364, 396, 32, 14" CvType="AnyWordGroup" DesignTimeRectangle="350, 396, 59, 16" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Male' /&gt;" Guid="720f8d76-968c-4bc8-b7a4-30336affb767" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b21ca1bf-0b5d-4568-9eb1-cdfe834f76d5" CvTextArea="239, 398, 60, 15" CvTextArgument="Gender:" CvType="Text" DesignTimeRectangle="231, 393, 82, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Gender:' class='content' tag='DIV' type='' check:innerText='Gender:' /&gt;" Guid="c3f83562-7696-4458-a13e-5774bd2f58a5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="07561bea1fcabec413fde26cf0e611da.png" xmlns="">0OZ15F9rs80Ka2C6xhCW6nA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

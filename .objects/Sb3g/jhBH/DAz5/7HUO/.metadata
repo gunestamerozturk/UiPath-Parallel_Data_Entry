@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Male",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "7HUOpWu5hUWrAHWpq1SpIQ",
+  "Reference": "0LbBORWvmkepZwquLszBFw/7HUOpWu5hUWrAHWpq1SpIQ",
+  "ParentRef": "0LbBORWvmkepZwquLszBFw/DAz5Y3nGDUiiiPV8y0xeaQ",
+  "Created": "2025-02-20T17:10:18.2830381Z",
+  "Updated": "2025-02-20T17:10:18.2830381Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

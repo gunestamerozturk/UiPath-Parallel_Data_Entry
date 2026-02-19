@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-0sQtq-ChEKcPvGSSxkkzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="bff8768a-ddcd-4c87-9979-5fabb5a32625" CvElementArea="826, 475, 284, 58" CvTextArea="937, 497, 59, 14" CvTextArgument="LOG IN" CvType="Button" DesignTimeRectangle="828, 476, 280, 55" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='LOG IN' tag='BUTTON' type='' class='bubble-element Button clickable-element' check:innerText='LOG IN' /&gt;" Guid="cf7287e3-6068-4dfd-b162-74d81ff4a1b4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e4dc7eb4cfa9ee0502c9aa7934cc8e38.png" xmlns="">0zkc1hnHcrEmtn4kLI4c0bg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

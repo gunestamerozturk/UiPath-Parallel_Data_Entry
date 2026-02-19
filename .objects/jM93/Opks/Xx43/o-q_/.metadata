@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Home Phone",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "o-q_hMovxkWmuBauBiAYzg",
+  "Reference": "0LbBORWvmkepZwquLszBFw/o-q_hMovxkWmuBauBiAYzg",
+  "ParentRef": "0LbBORWvmkepZwquLszBFw/Xx43kP8An0mzyy45f2vbNg",
+  "Created": "2025-02-21T00:04:42.2634674Z",
+  "Updated": "2025-02-21T00:04:42.2634674Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

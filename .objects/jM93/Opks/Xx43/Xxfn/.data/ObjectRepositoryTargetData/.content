@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zwdY7WCVS0-FIp-oC_R6UA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="19bd18a2-6cb1-4704-9406-90af64af1cbe" CvElementArea="200, 228, 182, 22" CvType="InputBox" DesignTimeRectangle="201, 229, 180, 20" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='panel2' /&gt;&lt;wnd ctrlname='textBox3' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel2' /&gt;&lt;wnd ctrlname='textBox3' /&gt;" Guid="77e108bc-dad3-475c-8c08-04bbad6fa923" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="19bd18a2-6cb1-4704-9406-90af64af1cbe" CvTextArea="119, 232, 46, 12" CvTextArgument="Address :" CvType="Text" DesignTimeRectangle="118, 232, 51, 13" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='panel2' /&gt;&lt;wnd ctrlname='label5' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel2' /&gt;&lt;wnd ctrlname='label5' check:text='Address :' /&gt;" Guid="ad1e68d8-56eb-4050-9b76-4136313d142c" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5126d253e4400ae97851d4a46b4934b5.png" xmlns="">0bplfXOEe306yX1K1rjSLmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

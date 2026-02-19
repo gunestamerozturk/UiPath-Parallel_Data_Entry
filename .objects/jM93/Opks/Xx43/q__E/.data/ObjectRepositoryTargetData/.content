@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KD6KDgk7_UK5YQpGfdFcfg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="19bd18a2-6cb1-4704-9406-90af64af1cbe" CvElementArea="282, 162, 18, 17" CvTextArea="302, 164, 35, 12" CvTextArgument="Female" CvType="RadioButton" DesignTimeRectangle="284, 162, 59, 17" DesignTimeScaleFactor="1" ElementType="RadioButton" FullSelectorArgument="&lt;wnd ctrlname='panel1' /&gt;&lt;wnd ctrlname='radioButton2' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel1' /&gt;&lt;wnd ctrlname='radioButton2' check:fulltext='Female' /&gt;" Guid="6827d345-6f32-463a-9d9e-390090168eda" ScopeSelectorArgument="&lt;wnd app='sampledesktopapp.exe' ctrlname='Form1' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="19bd18a2-6cb1-4704-9406-90af64af1cbe" CvTextArea="119, 162, 43, 12" CvTextArgument="Gender :" CvType="Text" DesignTimeRectangle="118, 162, 48, 13" ElementType="Text" FullSelectorArgument="&lt;wnd ctrlname='panel1' /&gt;&lt;wnd ctrlname='label4' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlname='panel1' /&gt;&lt;wnd ctrlname='label4' check:text='Gender :' /&gt;" Guid="3aef3a39-5bb2-49fc-944d-112bfcf64dc3" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0e54d5d34f7311d237664d8017aafd85.png" xmlns="">0OmYggitJLkqArZ3cpgBTcg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

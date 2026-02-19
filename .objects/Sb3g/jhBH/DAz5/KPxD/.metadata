@@ -1,0 +1,14 @@
+﻿{
+  "Name": "OR LOGIN",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "KPxDghsHK0mMDL7q5jcbRA",
+  "Reference": "0LbBORWvmkepZwquLszBFw/KPxDghsHK0mMDL7q5jcbRA",
+  "ParentRef": "0LbBORWvmkepZwquLszBFw/DAz5Y3nGDUiiiPV8y0xeaQ",
+  "Created": "2025-02-20T15:36:20.9949215Z",
+  "Updated": "2025-02-20T15:36:20.9949215Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

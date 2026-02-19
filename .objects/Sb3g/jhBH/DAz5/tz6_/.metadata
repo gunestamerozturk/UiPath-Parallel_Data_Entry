@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Female",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "tz6_7hjuI0WLDicbxnP1UQ",
+  "Reference": "0LbBORWvmkepZwquLszBFw/tz6_7hjuI0WLDicbxnP1UQ",
+  "ParentRef": "0LbBORWvmkepZwquLszBFw/DAz5Y3nGDUiiiPV8y0xeaQ",
+  "Created": "2025-02-20T17:11:18.8187498Z",
+  "Updated": "2025-02-20T17:11:18.8187498Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

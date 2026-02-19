@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CkiMWNk21EOzP-cCPECeDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" DesignTimeRectangle="828, 364, 280, 50" DesignTimeScaleFactor="1" Guid="280960c8-fb1f-437c-acc2-6cc008a99799" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="Semantic" SemanticElementType="InputBoxPassword" SemanticTextArgument="%[&quot;Password&quot;]" TargetType="SemanticBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce5e06800949a5f003cbd5b61e6e6642.png" xmlns="">0qQweByKbwUusFMlYLjkekA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SetValue</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
