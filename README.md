@@ -1,7 +1,6 @@
 # 🔄 UiPath Parallel Data Entry – Web ve Masaüstü Uygulamasına Eşzamanlı Veri Kaydı
 
-Bu proje, Excel tablosundaki müşteri verilerini aynı anda hem bir **web uygulamasına** hem de bir **masaüstü uygulamasına** kaydeden bir **UiPath Studio** otomasyonudur. Uygulama, paralel çalışma mantığını öğretmek amacıyla geliştirilmiş olup, Udemy üzerinde alınan Complete UiPath RPA Developer Course: Build 7 Robots
-isimli kursun pratik etkinliğidir.
+Bu proje, Excel tablosundaki müşteri verilerini aynı anda hem bir **web uygulamasına** hem de bir **masaüstü uygulamasına** kaydeden bir **UiPath Studio** otomasyonudur. Uygulama, paralel çalışma mantığını öğretmek amacıyla geliştirilmiş olup, Udemy üzerinde alınan **Complete UiPath RPA Developer Course: Build 7 Robots** isimli kursun pratik etkinliğidir.
 
 Web tarafında veri girişleri, eğitmene ait olan **https://www.theautomationchallenge.com/crm** adresine yapılmaktadır. Masaüstü tarafı ise eğitmenin kurs için hazırladığı basit bir data entry uygulamasıdır.
 
